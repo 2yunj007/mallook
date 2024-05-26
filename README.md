@@ -25,10 +25,14 @@
 - 옷에 대한 정보를 한눈에 보고 싶은 사람
 - 옷을 사기 전 코디를 해보고 싶은 사람
 
---- 
+---
+
 ## UCC 🎞️
 
+[![Video Label](https://i.ytimg.com/vi/AOGufeS9SCw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqCE-wq0HsJjODJifiAEc-_c7d9g)](https://www.youtube.com/watch?v=AOGufeS9SCw)
+
 ---
+
 # 👕기획 배경
 
 ## 배경
@@ -54,25 +58,30 @@
 - 구매 전 코디 매칭을 해볼 수 있는 코디북 서비스
 
 ---
+
 # ***💻*** 기술 스택
 
 ### FrontEnd
+
 [![React](https://img.shields.io/badge/React-18-yellow?style=flat&logo=react)](https://www.oracle.com/react/)
 [![Flutter](https://img.shields.io/badge/Flutter-3.19.3-skyblue?style=flat&logo=flutter)](https://www.oracle.com/flutter/)
 [![Dart](https://img.shields.io/badge/Dart-3.3.1-blue?style=flat&logo=dart)](https://www.oracle.com/dart/)
 
 ### BackEnd
+
 [![Java](https://img.shields.io/badge/Java-17-orange?style=flat&logo=java)](https://www.oracle.com/java/)
 [![Redis](https://img.shields.io/badge/Redis-7.2.4-red?style=flat&logo=redis)](https://redis.io/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.3-green?style=flat&logo=spring)](https://spring.io/projects/spring-boot)
 
 ### Data
+
 [![Hadoop](https://img.shields.io/badge/Hadoop-3.3.6-yellow?style=flat&logo=hadoop)](https://www.aparch.com/hadoop/)
 [![PySpark](https://img.shields.io/badge/PySpark-3.1.2-orange?style=flat&logo=pyspark)](https://www.aparch.com/pyspark/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0.35-yellow?style=flat&logo=mysql)](https://mysql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-7.0.7-green?style=flat&logo=mongodb)](https://www.mongodb.com/ko-kr/new)
 
 ### Infra
+
 [![AWS EC2](https://img.shields.io/badge/AWS_EC2-gray?style=flat&logo=amazon-aws)](https://aws.amazon.com/ec2/)
 [![Docker](https://img.shields.io/badge/Docker-25.0.4-blue?style=flat&logo=docker)](https://www.docker.com/)
 [![AWS S3](https://img.shields.io/badge/AWS_S3-gray?style=flat&logo=amazon-s3)](https://aws.amazon.com/s3/)
@@ -81,11 +90,13 @@
 
 
 ### Tool
+
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2023.3.4-red?style=flat&logo=intellij-idea)](https://www.jetbrains.com/idea/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-2023.1.1-green?style=flat&logo=android-studio)](https://developer.android.com/studio)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1.85.1-blue.svg?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 ### Cooperation
+
 [![Git](https://img.shields.io/badge/Git-gray?style=flat&logo=git)](https://git-scm.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-gray?style=flat&logo=gitlab)](https://about.gitlab.com/)
 [![Notion](https://img.shields.io/badge/Notion-gray?style=flat&logo=notion)](https://www.notion.so/)
@@ -93,55 +104,122 @@
 [![Mattermost](https://img.shields.io/badge/Mattermost-gray?style=flat&logo=mattermost)](https://mattermost.com/)
 
 ---
+
 # ***👖*** 화면 소개
 
-### 로그인 화면
+### Mobile
+
+#### 로그인 화면
+
 ![로그인.gif](/image/로그인.gif)
+
 - 카카오 로그인으로 로그인과 가입
 
-### 메인 화면
+#### 메인 화면
+
 ![메인화면.gif](/image/메인화면.gif)
+
 - 로그인 후 메인 화면
 
 ### 인기 순
+
 ![인기순](/image/인기순.gif)
+
 - 리뷰 기준 인기 상품 추천
 
-### 카테고리 검색
+#### 카테고리 검색
+
 ![카테고리 검색](/image/카테고리.gif)
+
 - 카테고리 선택으로 상품 필터링
 - 메인/서브 카테고리 선택으로 해당하는 상품만 조회
 
-### 구매
+#### 구매
+
 ![구매](/image/구매.gif)
+
 - 상품 수량과 사이즈를 선택해 주문
 
-### 몰룩북 메인
-![몰룩북 메인](/image/몰룩북%20메인.gif)
+#### 몰룩북 메인
+
+![몰룩북 메인](/image/몰룩북 메인.gif)
+
 - 외곽선을 제거한 상품 이미지를 조합해 내가 구매할 옷을 미리 조합
 
-### 몰룩북 상세
-![물룩북 상세](/image/몰룩북%20상세.gif)
+#### 몰룩북 상세
+
+![물룩북 상세](/image/몰룩북 상세.gif)
+
 - 조합한 코디에 포함한 키워드를 통해 상품 추천
 
-### 패션 월드컵
+#### 패션 월드컵
+
 ![패션 월드컵](/image/패션월드컵.gif)
+
 - 코디 이미지를 기반으로 월드컵을 진행
 - 제일 선호하는 코디의 키워드를 통해 생성형 AI를 통해 문장 생성
 
-### 내 스크립트
-![내 스크립트](/image/내%20스크립트.gif)
+#### 내 스크립트
+
+![내 스크립트](/image/내 스크립트.gif)
+
 - AI를 통해 생성한 문장으로 내가 선호하는 옷 스타일을 시각화
 
-### 내 스크립트 상세
-![내 스크립트 상세](/image/내%20스크립트%20상세.gif)
+#### 내 스크립트 상세
+
+![내 스크립트 상세](/image/내 스크립트 상세.gif)
+
 - 스크립트를 생성할 때 사용했던 키워드를 통해 유사 상품 추천
 
-### 키워드 검색
-![키워드 검색](/image/키워드%20검색.gif)
+#### 키워드 검색
+
+![키워드 검색](/image/키워드 검색.gif)
+
 - 핫한 키워드 목록을 확인
 - 키워드 선택 및 검색어로 검색 가능
+
+### Web
+
+#### 메인 화면
+
+![메인 화면](/image/main.PNG)
+
+
+
+#### 스크립트 추천
+
+![스크립트 추천](/image/recommend.png)
+
+
+
+#### 스크립트 상품 리스트 페이지
+
+![스크립트 상품 리스트](/image/recommend_detail.png)
+
+#### 상품 상세 페이지
+
+![상품 상세 페이지](\image\detail.png)
+
+#### 몰룩북 생성 페이지
+
+![몰룩북 생성](\image\lookbook.png)
+
+#### 몰룩북 커뮤니티 페이지
+
+![몰룩북 커뮤니티](\image\post.png)
+
+#### 월드컵 몰룩북 선택 페이지
+
+![월드컵 몰룩북 선택](\image\wordcup_select.png)
+
+#### 월드컵 결과 페이지
+
+![월드컵 결과](\image\wordcup.png)
+
+
+
 ---
+
 # 👗 기술 스택
 
 
@@ -150,7 +228,6 @@
 ![redis-image](/image/redis.png)
 
 > Redis는 주로 애플리케이션 캐시나 빠른 응답 속도를 가진 데이터베이스로 사용되는 오픈 소스 인메모리 NoSQL 저장소 입니다.
->
 
 ### 적용
 
@@ -180,7 +257,6 @@
 >
 >
 > Mallook은 S3를 통해 사용자가 생성한 몰룩북의 전체 이미지를 저장하고 관리합니다.
->
 
 ### 적용
 
@@ -194,7 +270,6 @@
 >
 >
 > Mallook은 여러 쇼핑몰들의 리뷰들을 MongoDB에 저장하여 키워드를 추출하고 관리합니다.
->
 
 ### 적용
 
@@ -212,7 +287,6 @@
 ![](/image/hadoop.jpg)
 
 > 클러스터에서 동작하는 분산 응용 프로그램을 지원하는 빅데이터 솔루션 프레임워크입니다.
->
 
 ### 적용
 
@@ -228,7 +302,6 @@
 >
 >
 > Mallook은 생성형 AI를 통해 사용자가 선택한 키워드를 바탕으로 재밌는 스크립트를 만들어내고 해당 스크립트를 기반으로 상품을 추천합니다.
->
 
 ### 적용
 
