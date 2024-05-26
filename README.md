@@ -198,23 +198,23 @@
 
 #### 상품 상세 페이지
 
-![상품 상세 페이지](\image\detail.png)
+![상품 상세 페이지](/image/detail.png)
 
 #### 몰룩북 생성 페이지
 
-![몰룩북 생성](\image\lookbook.png)
+![몰룩북 생성](/image/lookbook.png)
 
 #### 몰룩북 커뮤니티 페이지
 
-![몰룩북 커뮤니티](\image\post.png)
+![몰룩북 커뮤니티](/image/post.png)
 
 #### 월드컵 몰룩북 선택 페이지
 
-![월드컵 몰룩북 선택](\image\wordcup_select.png)
+![월드컵 몰룩북 선택](/image/wordcup_select.png)
 
 #### 월드컵 결과 페이지
 
-![월드컵 결과](\image\wordcup.png)
+![월드컵 결과](/image/wordcup.png)
 
 
 
